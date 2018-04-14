@@ -1,0 +1,51 @@
+.parallax-container {
+    height: 500px;
+  }
+
+
+  .NAME {
+    font-size: 13em;
+    font-family: 'Cinzel Decorative', cursive;
+
+  }
+
+  #titleofme {
+    font-family: 'Cinzel Decorative', cursive;
+    font-family: 'Codystar', cursive;
+  }
+  
+
+  .about_me {
+      text-align: center;
+  }
+
+  .about {
+      color: #00838f;
+  }
+
+  #logo {
+      margin-right: 10%;
+  }
+  
+
+  .TriviaGame {
+    background-image: url("fer.png");
+    
+    background-size: cover;
+
+  }
+
+  .SOS {
+    background-image: url("sos.png");
+    background-size: cover;
+  }
+
+  .Bamazon {
+    background-image: url("bamazon.png");
+
+    background-size: cover;
+  }
+
+  .blueText {
+    color: #00838f;
+  }

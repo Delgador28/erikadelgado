@@ -17,10 +17,13 @@
 
   .about_me {
       text-align: center;
+      font-family: 'Economica', sans-serif;
+      font-size: 20px;
   }
 
   .about {
       color: #00838f;
+      
   }
 
   #logo {
@@ -49,3 +52,28 @@
   .blueText {
     color: #00838f;
   }
+
+  h4 {
+    font-family: 'Cinzel Decorative', cursive;
+    color: #00838f;
+  }
+
+  i {
+    font-family: 'Cinzel Decorative', cursive;
+  }
+
+.drop {
+  font-family: 'Economica', sans-serif;
+  font-size: 20px;
+}
+
+footer {
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.card {
+  font-family: 'Economica', sans-serif;
+  font-size: 20px
+
+}
+
